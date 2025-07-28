@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nubaeon
 - 👀 I’m interested in investigative Journalism, DevOps, MLOps, and implementation of Artificial Intelligence across Govt, Educaton and Local Businesses sectors with emphasis on dev work for the open source community.
-- 🌱 I’m currently an AI Dev and Researcher working on RAISED, RAISE, RISE, BAR, AI Orchestration, AI Context Engineering, Contextual chatbot Engineering, and Development of open source projects in the AI space. 
-- 💞️ I’m looking to collaborate on anything AI / Investigative Writing in the area of RISE/RAISE open source. 
+- 🌱 I’m currently an AI Dev and Researcher working on Copartner Framework (Lead Engineer), AI Orchestration, AI Context Engineering, Contextual chatbot Engineering, and Development of open source projects in the AI space. 
+- 💞️ I’m looking to collaborate on anything AI / Investigative Writing in the area of Emergent AI Cooperative Intellegence open source. 
 - 📫 How to reach me: Twitter, Discord, Signal, Email
 
 <!---
